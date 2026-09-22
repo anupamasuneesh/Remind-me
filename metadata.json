@@ -1,0 +1,6 @@
+{
+  "name": "Remind Me",
+  "description": "Academic schedule, attendance tracking, commute alerts, and reminder portal for students and faculty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
